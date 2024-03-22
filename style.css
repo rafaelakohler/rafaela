@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background-image: url(img/plano_de_fundo.png);
+    background-attachment: fixed;
+}
+
+.container{
+    background-color: #F4AAFF;
+    
+}
+.container_titulo{
+    text-align: center;
+}
+main{
+    color: aqua;
+}
